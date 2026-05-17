@@ -963,6 +963,30 @@
 		)
 		(uuid "8f2689fc-b6a8-492d-b2ba-fbb0506b7d80")
 	)
+	(global_label "HV2"
+		(shape input)
+		(at 6.1534 1.3498 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "17ca82f6-8b4d-4d64-964e-9ddb17637543")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -0.4604 1.3498 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "MUX_SELECT_1"
 		(shape input)
 		(at 34.29 38.1 180)
